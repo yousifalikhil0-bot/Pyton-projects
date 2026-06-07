@@ -1,0 +1,5 @@
+print("welcome to python programming")
+print(15)
+print("Hello\n")
+print("My name is yusuf and my age is",13)
+print("lets start",end="*")

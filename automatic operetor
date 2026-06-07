@@ -1,0 +1,9 @@
+Tree1=15
+Tree2=14
+Tree3=8
+Tree4=5
+Tree5=20
+sum=Tree1+Tree2+Tree3+Tree4+Tree5
+print("sum of 5 Tree",sum)
+ave=sum/5
+print("average of 5 Tree",ave)
